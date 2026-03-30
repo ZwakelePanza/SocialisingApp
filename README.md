@@ -45,6 +45,13 @@ The Application combines both mood-based interaction and time-based logic to enh
 **$Step 3$**: Enter the required prompt **[Morning, Mid-Morning, Afternoon, Mid-Afternoon, Evening]**
 **$Step 4$**: Socialize and be free
 
+# **App Screenshots**
+
+<img width="100" height="100" alt="Screenshot_20260330_234108_SocialSparkApp(Demo)" src="https://github.com/user-attachments/assets/9bf7744b-6dbc-4a56-91ba-2cd06303c3d5" />
+<img width="100" height="100" alt="Screenshot_20260330_234127_SocialSparkApp(Demo)" src="https://github.com/user-attachments/assets/9f66ac7f-e1d2-40d6-9e19-c8f5b4b11f25" />
+<img width="100" height="100" alt="Screenshot_20260330_234148_SocialSparkApp(Demo)" src="https://github.com/user-attachments/assets/cfed9f25-068f-4114-880f-9f80124185c5" />
+
+
 # **Authors**
 
 [**Luyanda Ross  - ST10530303**]
