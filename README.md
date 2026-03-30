@@ -1,17 +1,16 @@
 # The Social Sparks App 
 
-This is an interactive Android application developed in Kotlin that helps maintain social connections by providing suggestions based on their mood and time of day through a chatbot-style interface. The app is time-based, alternating between Morning, Mid-morning, Afternoon, Mid-Afternoon, and Evening, and generating social cues that push you to be social.
+This is an interactive Android application developed in Kotlin that helps maintain social connections by providing suggestions based on their mood and time of day. The app is time-based, alternating between Morning, *Mid-morning*, *Afternoon*, *Mid-Afternoon*, and *Evening*, and generating social cues that push you to be social.
 
 # Purpose
 Encourage users to engage in meaningful social interaction in a simple and fun way.
 
 # Features
 
-Chatbot-Style interactions
 Mood-Based responses
 Time-Based Social Suggestions
 Typing indicator Simulation
-Message bubbles (user&bot)
+Message bubbles (user)
 Scrollable Chat interface
 Input Validation
 
