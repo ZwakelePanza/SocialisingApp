@@ -40,10 +40,10 @@ The Application combines both mood-based interaction and time-based logic to enh
 
 # **Here is how to use Social Sparks:**
 
-**$Step 1$**: Launch the App
-**$Step 2$**: Find the textbox required to enter the data
-**$Step 3$**: Enter the required prompt **[Morning, Mid-Morning, Afternoon, Mid-Afternoon, Evening]**
-**$Step 4$**: Socialize and be free
+**Step 1**: Launch the App
+**Step 2**: Find the textbox required to enter the data
+**Step 3**: Enter the required prompt **[Morning, Mid-Morning, Afternoon, Mid-Afternoon, Evening]**
+**Step 4**: Socialize and be free
 
 # **App Screenshots**
 
