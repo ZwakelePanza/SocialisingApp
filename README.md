@@ -54,9 +54,10 @@ The Application combines both mood-based interaction and time-based logic to enh
 
 # **Authors**
 
-[**Luyanda Ross  - ST10530303**]
-[**Kabo Moseki Leburu - ST10523754**]
-[**Napo Molapo - ST10524130**]
-[**Thato Phukubye - ST10515160**]
-[**Zwakele Panza - ST10539588**]
-[**Mambala Mabena - ST10443920**]
+[**Luyanda Ross  -       ST10530303**]
+[**Kabo Moseki Leburu -  ST10523754**]
+[**Napo Molapo -         ST10524130**]
+[**Thato Phukubye -      ST10515160**]
+[**Zwakele Panza -       ST10539588**]
+[**Mambala Mabena -      ST10443920**]
+[**Mzwakhe Mkhwanazi -   ST10511465**]
