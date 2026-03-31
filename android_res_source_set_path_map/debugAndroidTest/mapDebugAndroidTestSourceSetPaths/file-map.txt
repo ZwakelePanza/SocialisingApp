@@ -1,0 +1,6 @@
+com.example.socialsparkappdemo.test.app-tracing-1.2.0-0 C:\Users\User\.gradle\caches\9.2.1\transforms\2bc0708fb726d6ee07cb6dc83d823d01\workspace\transformed\tracing-1.2.0\res
+com.example.socialsparkappdemo.test.app-core-1.7.0-1 C:\Users\User\.gradle\caches\9.2.1\transforms\bb87c9a5e3d9dfea6401f3fdcfcaaf26\workspace\transformed\core-1.7.0\res
+com.example.socialsparkappdemo.test.app-updated_navigation_xml-2 C:\Users\User\AndroidStudioProjects\SocialSparkAppDemo\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.socialsparkappdemo.test.app-packageDebugAndroidTestResources-3 C:\Users\User\AndroidStudioProjects\SocialSparkAppDemo\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.example.socialsparkappdemo.test.app-packageDebugAndroidTestResources-4 C:\Users\User\AndroidStudioProjects\SocialSparkAppDemo\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.example.socialsparkappdemo.test.app-debugAndroidTest-5 C:\Users\User\AndroidStudioProjects\SocialSparkAppDemo\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
