@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SocialSparkApp(Demo)</string>
+    <string name="social_spark">Social Spark ✨</string>
+    <string name="time_hint">Enter time (e.g. 12:00)</string>
+    <string name="reset">Reset</string>
+    <string name="get_suggestion">Get Suggestion</string>
+    <string name="social_sparks">Social Spark ✨</string>
+    <string name="Enter_current_time_of_day">Enter Time Of Day</string>
+    <string name="social_sparkers">Social_sparker</string>
+    <string name="welcome_discover_exciting_social_ideas">Welcome! Discover exciting social ideas</string>
+    <string name="how_are_you_feeling_today">How are you feeling today?</string>
+    <string name="happy">Happy</string>
+    <string name="okay">Okay</string>
+    <string name="Tired">Tired</string>
+    <string name="how_are_you_feelingtoday">how are you feeling today?</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="suggestion_result">Suggestion Result</string>
+    <string name="enter_time_of_day_e_g_morning">Enter time of day (e.g. Morning)</string>
+    <string name="your_suggestion_will_appear_here">Your suggestion will appear here</string>
+    <string name="resetbutton">Reset</string>
+    <string name="suggestions">Suggest</string>
+    <string name="enter_time_e_g_morning">Enter time (e.g. Morning)</string>
+    <string name="social_sparkers1">Social Sparkers</string>
+    <string name="discover_exciting_social_ideas">Discover exciting social ideas ✨</string>
+    <string name="hey_how_are_you_doing_today">Hey👋 How are you doing today</string>
+    <string name="mood_good">😁 Good</string>
+    <string name="mood_not_good">😔 Not Good</string>
+    <string name="typing">Typing....</string>
+</resources>
